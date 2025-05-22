@@ -89,6 +89,7 @@ int main() {
     printf("Número de Pontos Turísticos: %d\n", pontos1);
     printf("A densidade populacional é: %.2f\n", densidade1);
     printf("O PIB per cabita é: %.2f\n", pibpercapita1);
+    print("O Super Poder é: %.2f\n", superpoder1);
  
     printf("\nCarta 2:\n");
     printf("Estado: %c\n", estado2);
@@ -100,6 +101,7 @@ int main() {
     printf("Número de Pontos Turísticos: %d\n", pontos2);
     printf("A densidade populacional é: %.2f\n", densidade2);
     printf("O PIB per capita é: %.2f\n", pibpercapita2);
+    print("O Super Poder é: %.2f\n", superpoder2);
 
     printf("\n-----------------------------------------------------\n");
     //Exibição do resultado da comparação das cartas
